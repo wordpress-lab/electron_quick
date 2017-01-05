@@ -1,0 +1,17 @@
+{
+  "name": "redeyedemo ",
+  "version": "1.0.0",
+  "description": "redeye Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rayhan",
+  "devDependencies": {
+    "electron": "^1.4.5",
+    "electron-packager": "^8.2.0"
+  },
+  "dependencies": {
+    "electron-window-manager": "^1.0.1"
+  }
+}
